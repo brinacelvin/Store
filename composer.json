@@ -1,0 +1,16 @@
+{
+    "name":"visionet/module-market",
+    "description":"basic",
+    "type":"magento2-module",
+    "license":"proprietary",
+    "author":
+    [
+        {"name":"Brina",
+        "email":"brinacelvin1108@gmail.com"
+         }
+    ],
+    "minimum-stability": "dev",
+     "require": {"php":"~7.4.0||~8.1.0"},
+     "autoload": {
+        "files": ["registration.php"],
+        "psr-4": {"Visionet\\Market\\":"" }}}
