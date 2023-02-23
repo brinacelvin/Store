@@ -1,5 +1,4 @@
 # Store
 
-#Basic functionalities
-
 First comment of README.md file
+Second comment of README.md file
